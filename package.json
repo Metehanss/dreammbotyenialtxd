@@ -47,7 +47,7 @@
     "path": "^0.12.7",
     "performance-now": "^2.1.0",
     "quick.db": "^7.0.0-b21",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "request-promise": "^4.2.2",
     "sequelize": "^4.38.0",
     "simple-youtube-api": "^5.0.2",
